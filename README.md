@@ -3,7 +3,7 @@
 ## How to Install
 
 ```bash
-    go install go.lafronz.net/web_scrap/cmd/web
+    go install go.lafronz.com/web_scrap/cmd/web
 ```
 
 ## How to Use
