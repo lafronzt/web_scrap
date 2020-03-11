@@ -7,7 +7,7 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"go.lafronz.net/web_scrap/internal"
+	"go.lafronz.com/web_scrap/internal"
 )
 
 var app *cli.App
