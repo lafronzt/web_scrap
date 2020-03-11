@@ -20,7 +20,7 @@ func main() {
 
 	app = &cli.App{
 		Name:    "web",
-		Version: "v0.1.0",
+		Version: "v0.1.1",
 		Usage:   "a web scrap tool",
 		Authors: []*cli.Author{
 			&cli.Author{
